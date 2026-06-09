@@ -1,0 +1,32 @@
+{
+  "name": "hookline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "worker": "node worker.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.4",
+  "dependencies": {
+    "@bull-board/api": "^7.2.1",
+    "@bull-board/express": "^7.2.1",
+    "axios": "^1.17.0",
+    "bullmq": "^5.78.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "ioredis": "^5.11.1",
+    "mongoose": "^9.6.3",
+    "razorpay": "^2.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
