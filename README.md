@@ -314,7 +314,5 @@ CLIENT_URL=http://localhost:3000
 
 Built by **Rahul Singh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulsingh--dev01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![GitHub](https://img.shields.io/badge/GitHub-rahul--singh011-181717?style=for-the-badge&logo=github&logoColor=white)]
 
 </div>
